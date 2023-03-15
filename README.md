@@ -1,6 +1,6 @@
 # GitHub Repository Flattener
 
-This Python script merges all `.py` files from a specified GitHub repository into a single output file. It's useful for quickly combining multiple scripts into a single file for easier distribution or execution.
+This Python script merges all `.py` files from a specified GitHub repository into a single output file. It's useful for quickly combining multiple scripts into a single file for easier distribution or execution or inpu til chatGPT!
 
 ## Requirements
 
